@@ -1,0 +1,7 @@
+﻿node_modules/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+wp-config.php
+wp-content/uploads/
